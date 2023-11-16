@@ -1,0 +1,40 @@
+.clients {
+	padding-top: 140px;
+	padding-bottom: 140px;
+	background-color: #012F34;
+	background-image: url(/images/section_3/top_bgi.svg);
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+// .container {}
+
+.clients__container {
+	max-width: 1110px;
+}
+
+.clients__text {
+	text-align: center;
+}
+
+.clients__title {
+	color: #FFF;
+	text-align: center;
+	font-family: Livvic;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 48px;
+	margin-bottom: 64px;
+}
+
+.clients__logo {
+	display: flex;
+	justify-content: space-between;
+	flex-shrink: 0;
+}
+
+.clients__icon {
+	width: 180px;
+	height: 28px;
+}
